@@ -57,6 +57,7 @@ class Loan(models.Model):
 ## OUTPUT
 
 ![1](https://github.com/user-attachments/assets/8c590f2d-6ebc-4b2e-869c-848dcd250ea3)
+![Screenshot 2024-12-21 082544](https://github.com/user-attachments/assets/cc5b35cc-9624-4ea1-b53f-edb20ee0b48e)
 ![2](https://github.com/user-attachments/assets/8f2baba3-7193-4b7c-a0a6-ad078cda6946)
 
 
